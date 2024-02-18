@@ -48,7 +48,7 @@ body {
 }
 .selected-candidate {
   width: 366px; /* Adjust the width as needed */
-  height: 137px; /* Adjust the height as needed */
+  height: 55px; /* Adjust the height as needed */
   background-color: #ededed; /* Light Gray */ /* Adjust background color as needed */
   border: 1px solid #ccc; /* Optional: Add a border for better contrast */
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4); /* Adjust shadow properties as needed */
@@ -98,4 +98,12 @@ body {
 .votesmart {
   font-weight: bold; /* Increased font weight */
   font-size: 20px; /* Increased font size */
+}
+
+.header-image-1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
 }
